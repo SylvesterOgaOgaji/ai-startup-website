@@ -2,15 +2,10 @@
 
 In this mini project, I create a step-by-step project to simulate the workflow of Tom and Jerry using Git and GitHub. This hands-on project will include installation of Git (Done from my earlier project), setting up a GitHub repository, cloning the repository, creating branches, making changes, and merging those changes back into the main branch.
 
-![Project Introduction](./img/)
-
 ## Part 1: Setup and Initial Configuration
 
 ### 1. Install Git:
-
-- Visit the [official Git website](https://git-scm.com/) and [download](https://git-scm.com/downloads) the version of Git for your operating system. Follow the installation instructions.
-
-![Installing Git](screenshots/02_installing_git.png)
+The version of Git for your operating system. Follow the installation instructions. This has already been done in Tech-environment-setup
 
 ### 2. Create a GitHub Repository:
 
